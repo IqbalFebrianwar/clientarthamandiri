@@ -7,7 +7,6 @@ export default function OwnerProfile() {
         <>
             <Navbar />
             <main className="bg-white min-h-screen">
-                {/* Header Section */}
                 <section className="bg-midnight py-20 px-4">
                     <div className="max-w-7xl mx-auto text-center">
                         <h1 className="text-4xl md:text-5xl font-black text-white mb-4">Profil Pemilik</h1>
@@ -28,7 +27,7 @@ export default function OwnerProfile() {
                                         className="object-cover transition-transform duration-700 group-hover:scale-105"
                                     />
                                     <div className="absolute bottom-0 inset-x-0 p-8 bg-linear-to-t from-midnight/90 to-transparent text-white">
-                                        <h2 className="text-3xl font-black">Aditya Pratama, M.B.A</h2>
+                                        <h2 className="text-3xl font-black">Rais Iqbal Sukamto S.Kom</h2>
                                         <p className="opacity-80 font-medium">Founder & CEO Artha Mandiri</p>
                                     </div>
                                 </div>
