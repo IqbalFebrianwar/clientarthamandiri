@@ -27,7 +27,7 @@ export default function OwnerProfile() {
                                         className="object-cover transition-transform duration-700 group-hover:scale-105"
                                     />
                                     <div className="absolute bottom-0 inset-x-0 p-8 bg-linear-to-t from-midnight/90 to-transparent text-white">
-                                        <h2 className="text-3xl font-black">Rais Iqbal Sukamto S.Kom</h2>
+                                        <h2 className="text-3xl font-black">Rais Iqbal Sukamto</h2>
                                         <p className="opacity-80 font-medium">Founder & CEO Artha Mandiri</p>
                                     </div>
                                 </div>
